@@ -1,10 +1,10 @@
 {
     "dev": {
-        "app_function": "test_zappa.app",
+        "app_function": "test_zappa.app.app",
         "aws_region": "us-east-1",
         "profile_name": "default",
         "project_name": "zappa-test",
         "runtime": "python3.6",
-        "s3_bucket": "zappa-bucket"
+        "s3_bucket": "zappa-uc9cn17sz"
     }
 }
